@@ -1,1 +1,4 @@
 # Use LocalGPT (LlamaCpp-Python) for the biopharma related databases
+
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
