@@ -1,1 +1,1 @@
-# Use-LocalGPT-LlamaCpp-Python-for-the-databases-related-to-biopharma.
+# Use LocalGPT (LlamaCpp-Python) for the biopharma related databases
